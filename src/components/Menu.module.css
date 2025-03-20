@@ -217,7 +217,7 @@
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 480px) {
     .menu_container {
         width: 100%; /* Ajustar a largura para caber melhor na tela */
         margin-top: 0px;
@@ -293,6 +293,110 @@
     }
     .menu_nutrition_table_weight4{
         padding-left: 120px;
+
+    }
+
+    .menu_nutrition_line {
+        margin-top: 5px;
+    }
+
+    .menu_instructions ol {
+        padding-left: 10px;
+    }
+
+    .menu_instructions li {
+        font-size: 12px;
+    }
+
+    .menu_ingredents ul {
+        padding-left: 10px;
+    }
+
+    .menu_ingredents li {
+        font-size: 12px;
+    }
+}
+
+
+
+/* Celulares maiores */
+
+@media (min-width: 481px) and (max-width: 1024px){
+    .menu_container {
+        width: 100%; /* Ajustar a largura para caber melhor na tela */
+        margin-top: 0px;
+        margin-bottom: 0px;
+        border-radius: 0;
+        flex-direction: column; /* Garante que o layout fique empilhado */
+    }
+
+    .menu_img {
+        width: 100%; /* Faz a imagem se ajustar ao contêiner */
+        height: auto; /* Mantém a proporção da imagem */
+        border-radius: 15px; 
+        position: absolute;
+        border-radius: inherit;
+        left: 0;
+        top: 0;
+
+    }
+
+    .menu_item {
+        margin: 20px;
+    }
+
+    .menu_title {
+        font-size: 30px; /* Reduz o tamanho do título */
+        text-align: start; /* Centraliza o texto */
+        margin-top: 50%;
+    }
+
+    .menu_description {
+        font-size: 12px; /* Diminui um pouco o tamanho do texto */
+        text-align: justify;
+    }
+
+    .menu_time {
+        padding: 15px;
+        margin-top: 15px;
+    }
+
+    .menu_time h3 {
+        font-size: 14px;
+    }
+
+    .menu_time_list {
+        font-size: 12px;
+    }
+
+    /* Ajustar tabelas para evitar que fiquem desorganizadas */
+    .menu_nutrition_table {
+        font-size: 14px;
+    }
+
+    
+
+    .menu_nutrition_table_weight1,
+    .menu_nutrition_table_weight2,
+    .menu_nutrition_table_weight3,
+    .menu_nutrition_table_weight4 {
+        padding-left: 0; /* Remove os espaçamentos fixos */
+        text-align: center; /* Centraliza os textos */
+    }
+
+    .menu_nutrition_table_weight1{
+        padding-left: 175px;
+    }
+    .menu_nutrition_table_weight2{
+        padding-left: 188px;
+
+    }
+    .menu_nutrition_table_weight3{
+        padding-left: 180px;
+
+    }
+    .menu_nutrition_table_weight4{
+        padding-left: 204px;
 
     }
 
