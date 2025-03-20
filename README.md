@@ -7,7 +7,10 @@ Currently, this is a url for the page in vercel.
 
 
 ## 📷 Screenshots 
-- **Tela de Compra (HomePage)**:  
+  
   ![image](https://i.imgur.com/AXSPzmv.png)
+  ![image](https://i.imgur.com/vgf0SNT.png)
+  ![image](https://i.imgur.com/Et4dLqf.png)
+  ![image](https://i.imgur.com/LFF9Onr.png)
 
 
