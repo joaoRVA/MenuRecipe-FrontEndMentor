@@ -1,12 +1,13 @@
-# React + Vite
+# Recipe Page - Challange from FrontEnd Mentor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a recipe page i created using react and css for train my skills in design and responsive screen.
 
-Currently, two official plugins are available:
+Currently, this is a url for the page in vercel.
+- [https://menu-recipe-front-end-mentor.vercel.app]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## ScreenShots
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- []
+
+
