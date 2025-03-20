@@ -6,8 +6,8 @@ Currently, this is a url for the page in vercel.
 - [https://menu-recipe-front-end-mentor.vercel.app]
 
 
-## ScreenShots
-
-- []
+## 📷 Screenshots 
+- **Tela de Compra (HomePage)**:  
+  ![image](https://i.imgur.com/AXSPzmv.png)
 
 
